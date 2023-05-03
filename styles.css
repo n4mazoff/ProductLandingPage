@@ -10,3 +10,13 @@ header {
  body {
    display: flex;
  }
+ #nav-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9999;
+    border: 1px solid #78534957;
+  background-color: gray;
+  opacity: 1;
+}

@@ -1,0 +1,12 @@
+header {
+  position: flex;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+@media (max-width: 1196) {
+ }
+ 
+ body {
+   display: flex;
+ }
